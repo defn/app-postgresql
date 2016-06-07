@@ -1,5 +1,1 @@
-Setup
-=====
-
-For bash, source `script/profile` to expose the PostgreSQL commands.  Requires the
-`defn/app` project installed and sourced.
+Visit http://defn.sh/postgresql/ or open `docs/index.html`
